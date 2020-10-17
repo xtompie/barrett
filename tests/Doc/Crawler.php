@@ -1,7 +1,5 @@
 <?php
 
-// https://symfony.com/doc/current/components/dom_crawler.html
-
 namespace Tests\Doc;
 
 use Symfony\Component\DomCrawler\Crawler as BaseCrawler;
